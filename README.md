@@ -42,18 +42,6 @@ Cara Menjalankan Aplikasi
    php artisan serve
    Akses aplikasi lewat browser di http://localhost:8000
 
-Akses Admin
-
-1. Jalankan perintah berikut di terminal untuk memberi status admin:
-   php artisan tinker
-
-   Di dalam Tinker, ketik:
-   $user = \App\Models\User::where('email', 'emailpengguna@contoh.com')->first();
-   $user->is_admin = 1;
-   $user->save();
-
-2. Setelah itu, login dengan akun tersebut lalu akses:
-   http://localhost:8000/admin/barang
 
 Fitur Utama
 
