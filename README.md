@@ -1,5 +1,12 @@
-BeliKatsu - Aplikasi Laravel Sederhana
+BeliKatsu - Web Laravel penjualan Nasi Katsu
 
+NAMA ANGGOTA KELOMPOK
+- Jefri Handanu
+- Ali Yafi
+- Naufal Abiyu
+- Syahrul Ibrahim
+
+  
 Kebutuhan Sistem
 - PHP versi 8 atau lebih baru
 - Composer
@@ -7,9 +14,8 @@ Kebutuhan Sistem
 
 Cara Menjalankan Aplikasi
 
-1. Clone atau unduh project ini
-   Jika dari GitHub:
-   git clone https://github.com/username/belikatsu.git
+1. Clone atau unduh project ini dari GitHub:
+   git clone https://github.com/Jeffrfs/TugasPBO2.git
 
 2. Masuk ke folder project
    cd belikatsu
