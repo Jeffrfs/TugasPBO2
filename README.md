@@ -40,7 +40,7 @@ Cara Menjalankan Aplikasi
 
 8. Jalankan aplikasi
    php artisan serve
-   Akses aplikasi lewat browser di http://localhost:8000
+   Akses melalui browser localhost http://localhost:8000
 
 
 Fitur Utama
